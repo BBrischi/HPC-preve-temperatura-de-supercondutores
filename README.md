@@ -5,7 +5,7 @@
 # HPC preveem temperatura crítica de supercondutores
 **Grupo:** HPC: High Phofocas & Condiments
 <br>
-**Integrantes:** Alice, Barbarino Santos, Bruno Ferreira Brischi e Maria Eduarda de Oliveira Crist
+**Integrantes:** Alice Barbarino Santos, Bruno Ferreira Brischi e Maria Eduarda de Oliveira Crist
 <br>
 **Instituição:** Ilum - Escola de ciência
 <br>
