@@ -25,7 +25,7 @@ _Dizer que precisa de python instalado, as bibliotecas, hardware, etc._
 _Listar quais são as bibliotecas utilizadas, suas funções e qual foi seu uso no trabalho_
 
 ## Como utilizar
-_Explicar sobre o notebook, que ele é executável, que o usuário pode usar a rede neural, já treinada, para poder fazer predições por si, desfrutando do modelo.
+_Explicar sobre o notebook, que ele é executável, que o usuário pode usar a rede neural, já treinada, para poder fazer predições por si, desfrutando do modelo._
 
 ## Referências
-_Colocar TODAS e QUALQUER referência que a gente venha usar. 
+_Colocar TODAS e QUALQUER referência que a gente venha usar._
