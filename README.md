@@ -23,7 +23,6 @@ O fenômeno da supercondutividade foi descoberta pela primeira vez em 1911, pelo
 É necessário o python instalado, além do Jupyter habilitado com as bibliotecas: `pandas`, `torch`, `optuna`, `sklearn`, `lightning`, `matplotlib`, `numpy`, `scipy` e `random`, que são usadas em momentos variados do código.
 
 ## Bibliotecas
-_Listar quais são as bibliotecas utilizadas, suas funções e qual foi seu uso no trabalho_
 As principais bibliotecas utilizadas nesse trabalho são: 
 - `pandas` para tratamento de dados, `sklearn` para normalização e _split_ dos dados;
 - `torch` e `lighting` para a construção da rede neural;
